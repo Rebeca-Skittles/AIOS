@@ -7,7 +7,7 @@ AIOS Is curently in development if you want to get the older version a link will
 Curent Snapshot of AIOS
 ![AIOS2 - Microsoft Visual Studio (Administrator) 6_03_2022 5_41_29 PM](https://user-images.githubusercontent.com/92580791/156912316-39952e3b-c965-422a-8bb4-3c7d53defbd3.png)
 # AIOS 1.0 Preview
-(https://www.youtube.com/watch?v=NBZmwWQUnWM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NBZmwWQUnWM/0.jpg)](https://www.youtube.com/watch?v=NBZmwWQUnWM)
 
 # AIOS 1.0 Download
 Google Drive
